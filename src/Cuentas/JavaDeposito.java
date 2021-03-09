@@ -29,7 +29,8 @@ public class JavaDeposito {
         System.out.println("El saldo actualk es "+saldoActual);
         
         try{
-            cuenta1.retirar(2300);
+            double subida = 2000;
+            cuenta1.retirar(subida);
         }catch (Exception e){
             System.out.println("Fallo al retirar.");
         }
