@@ -8,6 +8,7 @@ package Cuentas;
 /**
  *
  * @author usumaniana
+ * Visto
  */
 public class CCuenta {
 
